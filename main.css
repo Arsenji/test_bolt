@@ -1,0 +1,18 @@
+h1{
+  margin-left: 310px;
+  color: coral;
+  display: block;
+  border-radius: 4em;
+  border: 5px solid black;
+  margin-right: 270px;
+  padding-right: 40px;
+}
+body{
+  background-color: rgb(51, 51, 167);
+}
+form{
+  position: absolute;
+  top: 4em;
+  height: 2.2em;
+  text-transform: uppercase;
+}
